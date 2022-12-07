@@ -1,1 +1,8 @@
 zhuanlan.zhihu.com##.OpenInAppButton
+www.zhihu.com##.OpenInAppButton
+blog.csdn.net##.feed-Sign-span
+blog.csdn.net##.btn_open_app_prompt_div
+blog.csdn.net##.search-tag-box
+blog.csdn.net##.content-box
+blog.csdn.net##.csdn-toolbar
+blog.csdn.net##.aside-header-fixed
